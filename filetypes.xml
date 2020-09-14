@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="version-info" type="PLAIN_TEXT" />
       <mapping pattern=".test" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
