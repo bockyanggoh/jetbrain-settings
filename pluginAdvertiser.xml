@@ -2021,6 +2021,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*requirements*.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
+              <option name="myPluginName" value="Requirements" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".analysis_options">
           <value>
             <plugin>
@@ -2267,6 +2275,14 @@
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="constrains.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
+              <option name="myPluginName" value="Requirements" />
             </plugin>
           </value>
         </entry>
